@@ -90,5 +90,21 @@
       "testimonial": "A fantastic service that I would recommend to anyone.",
       "rating": 5
     }
+  ],
+  "ContactForm": [
+    {
+      "id": "bba5",
+      "email": "ajay8904736408@gmail.com",
+      "phone": "6366131707",
+      "address": "kangrali b.k",
+      "location": "NH48, ಸುಬಾಷ್ ನಗರ, Belagavi, ಬೆಳಗಾವಿ ತಾಲೂಕು, ಬೆಳಗಾವಿ ಜಿಲ್ಲೆ, Karnataka, 590001, India"
+    },
+    {
+      "id": "ddc0",
+      "email": "ajay8904736408@gmail.com",
+      "phone": "6366131707",
+      "address": "kangrali b.k",
+      "location": "NH48, ಸುಬಾಷ್ ನಗರ, Belagavi, ಬೆಳಗಾವಿ ತಾಲೂಕು, ಬೆಳಗಾವಿ ಜಿಲ್ಲೆ, Karnataka, 590001, India"
+    }
   ]
 }

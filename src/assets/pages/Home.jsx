@@ -4,6 +4,7 @@ import Footer from "../components/Footer";
 import AccordionTiems from "../components/AccordionItem/AccordionTiems";
 import Carousel from "../components/Carousel/Carousel";
 import Testimonials from "../components/Testimonials/Testimonials";
+import ContactForm from "../components/ContactForm/ContactForm";
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
       <AccordionTiems />
       <Carousel />
       <Testimonials />
+      <ContactForm />
       <Footer />
     </div>
   );
