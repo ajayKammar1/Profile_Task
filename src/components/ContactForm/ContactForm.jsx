@@ -6,7 +6,7 @@ import { FiPhone, FiMapPin } from "react-icons/fi";
 import { validateForm } from "./formValidation";
 import FormInput from "./FormInput";
 import GoogleMap from "./GoogleMap";
-import { AddContactForm } from "../../server/contactFormApi";
+import { AddContactForm } from "../../assets/server/contactFormApi";
 
 const ContactForm = () => {
   const [formData, setFormData] = useState({

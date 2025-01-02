@@ -1,6 +1,6 @@
 import React from "react";
 import Rating from "@mui/material/Rating";
-import myImage from "../../images/profile.png";
+import myImage from "../../assets/images/profile.png";
 const TestmonialCard = ({ testimonial }) => (
   <div className="bg-white rounded-lg shadow-lg p-6 m-2">
     <div className="flex items-center mb-4">

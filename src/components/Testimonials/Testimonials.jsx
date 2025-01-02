@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import TestmonialCard from "./TestmonialCard";
 import axios from "axios";
-import { getAllTestmonils } from "../../server/TestmonilsApi";
+import { getAllTestmonils } from "../../assets/server/TestmonilsApi";
 const Testimonials = () => {
   const [testimonials, setTestimonials] = useState([]);
   const [loading, setLoading] = useState(true);
